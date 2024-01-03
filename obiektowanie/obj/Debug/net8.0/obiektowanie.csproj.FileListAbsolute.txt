@@ -1,0 +1,14 @@
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\obiektowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\obiektowanie.AssemblyInfoInputs.cache
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\obiektowanie.AssemblyInfo.cs
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\obiektowanie.csproj.CoreCompileInputs.cache
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\bin\Debug\net8.0\obiektowanie.exe
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\bin\Debug\net8.0\obiektowanie.deps.json
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\bin\Debug\net8.0\obiektowanie.runtimeconfig.json
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\bin\Debug\net8.0\obiektowanie.dll
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\bin\Debug\net8.0\obiektowanie.pdb
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\obiektowanie.dll
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\refint\obiektowanie.dll
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\obiektowanie.pdb
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\obiektowanie.genruntimeconfig.cache
+C:\Users\3671749\source\repos\obiektowanie\obiektowanie\obj\Debug\net8.0\ref\obiektowanie.dll
